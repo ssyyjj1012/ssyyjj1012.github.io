@@ -114,58 +114,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           아두이노를 이용하여 보드를 설계하고 코드 구현
           인체감지센서를 통해 게임 참가자들의 움직임 여부 파악 및 성공 여부 파악하도록 구현
-          
-
-content:
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: DCRL 학부 연구생
-        sub_title: Job title
-        caption: 2022.03~2023.02
-        link: 연구실 홈페이지 (https://sites.google.com/view/dcr-cybersec/home)
-        quote: >
-          한림대학교 데이터기반 사이버 보안 연구실
-        description: | # this will include new lines to allow paragraphs
-          1. 자동차 해킹 연구
-          2. 학술대회 논문 
-            - '메타버스 환경에서 금융서비스 보안 위협 연구', 한국융합보안학회 2022년 하계학술대회 논문집
-            - '데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강', 2022 한국정보처리학회 ACK2022 추계학술대회 우수논문상
-          3. 자율주행자동차 도난 방지를 위한 운전자 식별 연구
-          
-content:
-    - title: Awards
-      layout: list
-      content:
-      - layout: top-right
-        title: 2020 한림대학교 HBC-5 딥러닝 해커톤 대회 
-        sub_title: 금상, 한림대학교 SW중심대학사업단
-        caption: 2020.02
-        
-     - layout: top-right
-       title: 제1회  강원 사이버보안 경시대회
-       sub_title: 장려상, 강원테크노파크
-       caption: 2021.11.15
-        
-     - layout: top-right
-       title: 2022년 한국융합보안학회 하계학술대회
-       sub_title: 장려상, (사)한국융합보안학회
-       caption: 2022.07.22  
-        
-content:
-     - title: Paper
-       layout: list
-       content:
-        - layout: top-right
-          title: 메타버스 환경에서 금융서비스 보안 위협 연구
-          link : https://github.com/ssyyjj1012/STUDY_Metaverse-Security
-
-        - layout: top-right
-          title: 데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강
-          link : https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-
-
-        
+  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
