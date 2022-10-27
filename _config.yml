@@ -98,7 +98,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 캡스톤 디자인
+        title: Capstone Design
         link: https://github.com/ssyyjj1012/2021-Capstone
         link_text: CNN 성능 향상을 위한 GAN 기반 합성 의료 이미지 증강
         description: | # this will include new lines to allow paragraphs
@@ -110,9 +110,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Hardware Project
         link: https://github.com/ssyyjj1012/2021-HardwareProject-The_roses_of_Sharon_have_blossomed
-        link_text: 아두이노로 <무궁화 꽃이 피었습니다> 구현
+        link_text: <무궁화 꽃이 피었습니다> 구현
         description: | # this will include new lines to allow paragraphs
-          인체감지센서를 통해 게임 참가자들의 움직임 여부 파악 및 성공 여부 파악
+          아두이노를 이용하여 보드를 설계하고 코드 구현
+          인체감지센서를 통해 게임 참가자들의 움직임 여부 파악 및 성공 여부 파악하도록 구현
           
       
 
