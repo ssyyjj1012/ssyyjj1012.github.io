@@ -155,14 +155,15 @@ content:
          
   - title: Paper
     layout: list
-    - layout: top-right
-        title: 메타버스 환경에서 금융서비스 보안 위협 연구
-        link : https://github.com/ssyyjj1012/STUDY_Metaverse-Security
-        
-    - layout: top-right
-        title: 데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강
-        link : https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-
-        
+    content:
+      - layout: top-right
+          title: 메타버스 환경에서 금융서비스 보안 위협 연구
+          link : https://github.com/ssyyjj1012/STUDY_Metaverse-Security
+
+      - layout: top-right
+          title: 데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강
+          link : https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-
+
         
         
 # Footer
