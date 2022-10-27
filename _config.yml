@@ -39,15 +39,19 @@ instagram_username: dudwo1012
 about_profile_image: https://user-images.githubusercontent.com/52689953/150071685-aadd2c14-f85c-4c5e-a569-80d9cbcb7a18.png
 about_content: | # this will include new lines to allow paragraphs
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   <mark>Name</mark> Seo Yeongjae
+  
   <mark>University</mark> Hallym University
+  
   <mark>Major</mark> ContentsIT
+  
   <mark>Double Major</mark> Bigdata
+  
   <mark>Interests</mark>
     - Vehicle Security
     - Data-Driven Security
     - Network Security
+  
   <mark>Study</mark>
     - IVN 데이터 기반 침입 탐지 시스템 연구
     
