@@ -136,35 +136,35 @@ content:
           
 content:
     - title: Awards
-    layout: list
-    content:
+      layout: list
+      content:
       - layout: top-right
         title: 2020 한림대학교 HBC-5 딥러닝 해커톤 대회 
         sub_title: 금상, 한림대학교 SW중심대학사업단
         caption: 2020.02
         
      - layout: top-right
-        title: 제1회  강원 사이버보안 경시대회
-        sub_title: 장려상, 강원테크노파크
-        caption: 2021.11.15
+       title: 제1회  강원 사이버보안 경시대회
+       sub_title: 장려상, 강원테크노파크
+       caption: 2021.11.15
         
      - layout: top-right
-        title: 2022년 한국융합보안학회 하계학술대회
-        sub_title: 장려상, (사)한국융합보안학회
-        caption: 2022.07.22  
+       title: 2022년 한국융합보안학회 하계학술대회
+       sub_title: 장려상, (사)한국융합보안학회
+       caption: 2022.07.22  
         
 content:
      - title: Paper
-    layout: list
-    content:
-      - layout: top-right
+       layout: list
+       content:
+        - layout: top-right
           title: 메타버스 환경에서 금융서비스 보안 위협 연구
           link : https://github.com/ssyyjj1012/STUDY_Metaverse-Security
 
-      - layout: top-right
+        - layout: top-right
           title: 데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강
           link : https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-
-          
+
         
 # Footer
 footer_show_references: true
