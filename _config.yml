@@ -26,7 +26,7 @@ instagram_username: dudwo1012
 # Additional icon links
 additional_links:
 - title: velog
-  icon: Velog(eg. fab fa-twitter) (https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png)
+  icon:  https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png
   url: https://velog.io/@dudwo1012
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
